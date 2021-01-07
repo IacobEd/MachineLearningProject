@@ -4,7 +4,7 @@ click==6.7
 demjson==2.2.4
 eiapy==0.1.2
 html5lib==0.999999999
-lxml==3.7.3
+lxml==4.6.2
 mock==2.0.0
 pandas==0.24.2
 Pillow==4.0.0
